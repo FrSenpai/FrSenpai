@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **an app to learn kanjis**
+- 🔭 I’m currently working on Oboemasho ! It's a tool to learn kanjis [https://oboemasho.com](https://oboemasho.com)
 
 - 🌱 I’m currently learning **React native**
 
