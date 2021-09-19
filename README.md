@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Oboemasho ! It's a tool to learn kanjis [https://oboemasho.com](https://oboemasho.com)
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Svelte**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular, React native**
 
 - 📫 How to reach me (discord only) **Senpai#3642**
 
