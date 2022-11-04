@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on Oboemasho ! It's a tool to learn kanjis [https://oboemasho.com](https://oboemasho.com)
-
-- 🌱 I’m currently learning **Svelte**
-
-- 💬 Ask me about **Angular, React native**
+- 🔭 I’m currently working on Oboemasho ! It's a mobile application to learn kanjis, kanas & japanese vocabulary [https://oboemasho.com](https://oboemasho.com)
 
 - 📫 How to reach me (discord only) **Senpai#3642**
 
