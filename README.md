@@ -9,8 +9,10 @@ Ma spécialité réside dans le développement avec React Native, une technologi
 <h3>Mes compétences</h3>
 ⚡️ Développement Full Stack : Je suis à l'aise tant sur le front-end que sur le back-end. Je maîtrise des frameworks modernes tels que ReactJS, NextJS, et Angular pour créer des interfaces utilisateur interactives et réactives. Du côté du back-end, j'ai une solide expérience avec Node.js et Express, ainsi que la conception de bases de données avec MongoDB.
 
+
 📱 Développement Mobile (React Native) : Je suis un fervent adepte de React Native, qui me permet de créer des applications mobiles natives pour iOS et Android avec une base de code unique. 
 J'ai travaillé sur divers projets mobiles, comme par exemple sur des applications de géolocalisation en temps réel, de générations de QR, de quiz et bien d'autres.
+
 
 🎨 UI/UX Design : Je suis très attentif à l'expérience utilisateur et à l'interface visuelle.
 
@@ -21,11 +23,13 @@ Au fil des années, j'ai eu l'occasion de travailler sur des projets passionnant
 🚀 - 'TocToc' is an innovative solution designed to prevent doorbell interruptions and provide a seamless visitor experience. 
 By utilizing QR codes, TocToc allows visitors to notify their presence without the need for physical interaction. Say goodbye to doorbell disruptions and embrace uninterrupted productivity with TocToc! 
 https://toctoc-qr.com
-<br>
+
+
 🌟 - Oboemasho is your ultimate companion for mastering the Japanese language. 
 With our innovative learning platform, you can enhance your skills in kanji, kana, and Japanese vocabulary. Whether you're a beginner or an advanced learner, Oboemasho offers customizable decks, interactive quizzes, and a supportive community to guide you on your language journey. 
 Unlock your potential and achieve fluency with Oboemasho.
 https://oboemasho.com
+
 
 🛒 - Constructed multiple back-office systems for mid-sized company, catering to their mobile applications and e-commerce websites.
 
