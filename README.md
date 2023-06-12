@@ -1,18 +1,39 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h1 align="center">👋 Bienvenue sur mon profil GitHub !</h1>
+<h3 align="center">Développeur Full-Stack</h3>
 
-- 🔭 I’m currently working on Oboemasho ! It's a mobile application to learn kanjis, kanas & japanese vocabulary [https://oboemasho.com](https://oboemasho.com)
+<img src="https://cdn.discordapp.com/attachments/438805092981014550/1116339860429619210/Illustration2.jpg" alt="Logo" width="200" height="200">
 
-- 📫 How to reach me (discord only) **Senpai#3642**
+Je suis un développeur passionné avec une expertise en développement Full Stack et Mobile. J'ai une passion pour la création d'applications robustes, intuitives et esthétiques en utilisant les dernières technologies. 
+Ma spécialité réside dans le développement avec React Native, une technologie puissante pour créer des applications mobiles cross-platform.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-parjouet-b197aa1a1/](https://www.linkedin.com/in/alexandre-parjouet-b197aa1a1/)
+Mes compétences
+⚡️ Développement Full Stack : Je suis à l'aise tant sur le front-end que sur le back-end. Je maîtrise des frameworks modernes tels que ReactJS, NextJS, et Angular pour créer des interfaces utilisateur interactives et réactives. Du côté du back-end, j'ai une solide expérience avec Node.js et Express, ainsi que la conception de bases de données avec MongoDB.
 
-- ⚡ Fun fact **I used a readMe generator to create this one**
+📱 Développement Mobile (React Native) : Je suis un fervent adepte de React Native, qui me permet de créer des applications mobiles natives pour iOS et Android avec une base de code unique. J'ai travaillé sur divers projets mobiles, comme par exemple sur des applications de géolocalisation en temps réel, de générations de QR, de quiz et bien d'autres.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alexandre-parjouet-b197aa1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-parjouet-b197aa1a1" height="30" width="40" /></a>
-</p>
+🎨 UI/UX Design : Je suis très attentif à l'expérience utilisateur et à l'interface visuelle.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3>Mes réalisations</h3>
+Au fil des années, j'ai eu l'occasion de travailler sur des projets passionnants qui ont renforcé mes compétences et ma passion pour le développement. Voici quelques-unes de mes réalisations notables :
+
+🚀 - 'TocToc' is an innovative solution designed to prevent doorbell interruptions and provide a seamless visitor experience. 
+By utilizing QR codes, TocToc allows visitors to notify their presence without the need for physical interaction. Say goodbye to doorbell disruptions and embrace uninterrupted productivity with TocToc! 
+https://toctoc-qr.com
+
+🌟 - Oboemasho is your ultimate companion for mastering the Japanese language. 
+With our innovative learning platform, you can enhance your skills in kanji, kana, and Japanese vocabulary. Whether you're a beginner or an advanced learner, Oboemasho offers customizable decks, interactive quizzes, and a supportive community to guide you on your language journey. 
+Unlock your potential and achieve fluency with Oboemasho.
+https://oboemasho.com
+
+🛒 - Constructed multiple back-office systems for mid-sized company, catering to their mobile applications and e-commerce websites.
+
+<h3>Me contacter</h3>
+Si vous êtes intéressé par une collaboration ou si vous avez des questions, n'hésitez pas à me contacter. Je suis ouvert aux opportunités et aux projets passionnants !
+
+📧 Email : alexandre.parjouet.pro@gmail.com ou contact@kumaproductions.fr
+🌐 Site web : https://kumaproductions.fr
+💼 TJM à ~420€ selon le projet --> LinkedIn : https://www.linkedin.com/in/alexandre-parjouet/
+
+Je serais ravi de discuter avec vous et de contribuer à des projets innovants.
+
+✨ Merci d'avoir visité mon profil GitHub ! ✨
