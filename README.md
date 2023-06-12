@@ -10,6 +10,7 @@ Ma spécialité réside dans le développement avec React Native, une technologi
 ⚡️ Développement Full Stack : Je suis à l'aise tant sur le front-end que sur le back-end. Je maîtrise des frameworks modernes tels que ReactJS, NextJS, et Angular pour créer des interfaces utilisateur interactives et réactives. Du côté du back-end, j'ai une solide expérience avec Node.js et Express, ainsi que la conception de bases de données avec MongoDB.
 
 
+
 📱 Développement Mobile (React Native) : Je suis un fervent adepte de React Native, qui me permet de créer des applications mobiles natives pour iOS et Android avec une base de code unique. 
 J'ai travaillé sur divers projets mobiles, comme par exemple sur des applications de géolocalisation en temps réel, de générations de QR, de quiz et bien d'autres.
 
