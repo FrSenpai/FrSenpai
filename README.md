@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenue sur mon profil GitHub !</h1>
 <h3 align="center">Développeur Full-Stack</h3>
 
-<img src="https://cdn.discordapp.com/attachments/438805092981014550/1116339860429619210/Illustration2.jpg" alt="Logo" width="200" height="200">
+<img align="center" src="https://cdn.discordapp.com/attachments/438805092981014550/1116339860429619210/Illustration2.jpg" alt="Logo" width="200" height="200">
 
 Je suis un développeur passionné avec une expertise en développement Full Stack et Mobile. J'ai une passion pour la création d'applications robustes, intuitives et esthétiques en utilisant les dernières technologies. 
 Ma spécialité réside dans le développement avec React Native, une technologie puissante pour créer des applications mobiles cross-platform.
