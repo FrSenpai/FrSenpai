@@ -1,9 +1,17 @@
 # 👋 Bienvenue sur mon profil GitHub !  
 <p align="center">
-  <img src="https://img.shields.io/github/followers/FrSenpai?label=Suivre&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/React%20Native-%231572B6.svg?style=flat&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Contact-📧-blue" alt="Contact">
+  <a href="https://github.com/alexandreparjouet" target="_blank">
+    <img src="https://img.shields.io/github/followers/alexandreparjouet?label=Suivre&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React%20Native-%231572B6.svg?style=flat&logo=react&logoColor=white" alt="React Native">
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  </a>
+  <a href="mailto:alexandre.parjouet.pro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-📧-blue" alt="Contact">
+  </a>
 </p>
 
 ---
@@ -12,7 +20,7 @@
 Passionné par les nouvelles technologies, je me spécialise dans le développement **front-end** avec un fort intérêt pour la création d'applications modernes, performantes et esthétiques.  
 
 ### 🔍 **Compétences clés :**  
-- **Technologies :** React Native, Next.js, TypeScript, JavaScript, Sequelize, Postgresql
+- **Technologies :** React Native, Next.js, TypeScript, JavaScript, TailwindCSS, Redux  
 - **Conception UI/UX :** Création d'interfaces intuitives avec un focus sur l'expérience utilisateur  
 - **Outils :** Git, Figma, VS Code, CI/CD  
 
@@ -54,7 +62,7 @@ Je suis ouvert à de nouvelles collaborations et opportunités. N’hésitez pas
 - **Email :** alexandre.parjouet.pro@gmail.com  
 - **Portfolio :** [kumaproductions.fr](https://kumaproductions.fr)  
 - **LinkedIn :** [Alexandre Parjouet](https://www.linkedin.com/in/alexandre-parjouet/)  
-- **TJM :** 450€ (selon projet)  
+- **TJM :** ~420€ (selon projet)  
 
 <p align="center">
   <a href="https://linkedin.com/in/alexandre-parjouet" target="_blank">
