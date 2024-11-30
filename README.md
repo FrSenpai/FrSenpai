@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub !  
 <p align="center">
   <a href="https://github.com/alexandreparjouet" target="_blank">
-    <img src="https://img.shields.io/github/followers/alexandreparjouet?label=Suivre&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/FrSenpai?label=Suivre&style=social" alt="GitHub Followers">
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React%20Native-%231572B6.svg?style=flat&logo=react&logoColor=white" alt="React Native">
