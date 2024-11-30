@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !  
 <p align="center">
-  <img src="https://img.shields.io/github/followers/alexandreparjouet?label=Suivre&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/FrSenpai?label=Suivre&style=social" alt="GitHub Followers">
   <img src="https://img.shields.io/badge/React%20Native-%231572B6.svg?style=flat&logo=react&logoColor=white" alt="React Native">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Contact-📧-blue" alt="Contact">
